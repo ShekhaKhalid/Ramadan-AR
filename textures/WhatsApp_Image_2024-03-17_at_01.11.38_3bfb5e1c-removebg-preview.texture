@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "WhatsApp_Image_2024-03-17_at_01.11.38_3bfb5e1c-removebg-preview",
+  "identifier": "texture:752576-18418061-634b-4b17-9945-3f4053a2fe88",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "62f1fa3c3ee4781fb65956a4a5e33625",
+  "assetLocator": "textures/WhatsApp_Image_2024-03-17_at_01.11.38_3bfb5e1c-removebg-preview.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 452,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 552,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "62f1fa3c3ee4781fb65956a4a5e33625",
+      "colorCount": 10709,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 7.536246394252558,
+      "pixelsHigh": 452,
+      "pixelsWide": 552
+    }
+  ]
+}

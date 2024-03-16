@@ -1,0 +1,237 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "lat",
+  "identifier": "master3_d_object_model:754069-18418061-634b-4b17-9945-3f4053a2fe88",
+  "sourceIdentifier": "asset_collection_model:754073-18418061-634b-4b17-9945-3f4053a2fe88",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 2.4139630794525146,
+  "globalScaleFactor": 0.6414292589520992,
+  "height": 3.1180367469787598,
+  "hidden": false,
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 2.0905532836914062,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "Lanter",
+      "identifier": "mesh:754026-18418061-634b-4b17-9945-3f4053a2fe88",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "nodeName": "Lanter",
+      "numberOfFaces": 124,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:754030-18418061-634b-4b17-9945-3f4053a2fe88",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": -1.5707964897155762,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 0.9999999403953552,
+        "sz": 0.9999999403953552,
+        "x": 4.681175231933594,
+        "y": 0.4346289336681366,
+        "z": -2.5411694049835205
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:754028-18418061-634b-4b17-9945-3f4053a2fe88",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:754033-18418061-634b-4b17-9945-3f4053a2fe88",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:754016-18418061-634b-4b17-9945-3f4053a2fe88",
+              "surfaceGroupIdentifier": "754034-18418061-634b-4b17-9945-3f4053a2fe88"
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Circle",
+          "identifier": "mesh:754036-18418061-634b-4b17-9945-3f4053a2fe88",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Circle",
+          "numberOfFaces": 188,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:754040-18418061-634b-4b17-9945-3f4053a2fe88",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": -0,
+            "rz": 0,
+            "sx": 5.978087902069092,
+            "sy": 5.978087902069092,
+            "sz": 7.718809127807617,
+            "x": -4.093044765340892E-7,
+            "y": -2.046522382670446E-7,
+            "z": -0.3734018802642822
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:754038-18418061-634b-4b17-9945-3f4053a2fe88",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:754043-18418061-634b-4b17-9945-3f4053a2fe88",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:754018-18418061-634b-4b17-9945-3f4053a2fe88",
+                  "surfaceGroupIdentifier": "754044-18418061-634b-4b17-9945-3f4053a2fe88"
+                },
+                {
+                  "modelName": "surface",
+                  "name": "surface1",
+                  "identifier": "surface:754046-18418061-634b-4b17-9945-3f4053a2fe88",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:754020-18418061-634b-4b17-9945-3f4053a2fe88",
+                  "surfaceGroupIdentifier": "754047-18418061-634b-4b17-9945-3f4053a2fe88"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Circle.001",
+          "identifier": "mesh:754049-18418061-634b-4b17-9945-3f4053a2fe88",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Circle.001",
+          "numberOfFaces": 72,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:754053-18418061-634b-4b17-9945-3f4053a2fe88",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 1.5707963705062866,
+            "rz": -0.6723987460136414,
+            "sx": 3.26062273979187,
+            "sy": 2.5252976417541504,
+            "sz": 2.5252976417541504,
+            "x": -0.016201090067625046,
+            "y": -2.046522382670446E-7,
+            "z": 1.3919432163238525
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:754051-18418061-634b-4b17-9945-3f4053a2fe88",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:754056-18418061-634b-4b17-9945-3f4053a2fe88",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:754018-18418061-634b-4b17-9945-3f4053a2fe88",
+                  "surfaceGroupIdentifier": "754057-18418061-634b-4b17-9945-3f4053a2fe88"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Sphere",
+          "identifier": "mesh:754059-18418061-634b-4b17-9945-3f4053a2fe88",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Sphere",
+          "numberOfFaces": 960,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:754063-18418061-634b-4b17-9945-3f4053a2fe88",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": -0,
+            "rz": 0,
+            "sx": 0.5867205858230591,
+            "sy": 0.5867205858230591,
+            "sz": 1.2697348594665527,
+            "x": -4.093044765340892E-7,
+            "y": -2.046522382670446E-7,
+            "z": 0.18197405338287354
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:754061-18418061-634b-4b17-9945-3f4053a2fe88",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:754066-18418061-634b-4b17-9945-3f4053a2fe88",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:754022-18418061-634b-4b17-9945-3f4053a2fe88",
+                  "surfaceGroupIdentifier": "754067-18418061-634b-4b17-9945-3f4053a2fe88"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

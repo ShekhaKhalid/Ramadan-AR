@@ -1,0 +1,82 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "moon",
+  "identifier": "master3_d_object_model:756710-18418061-634b-4b17-9945-3f4053a2fe88",
+  "sourceIdentifier": "asset_collection_model:756714-18418061-634b-4b17-9945-3f4053a2fe88",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 1.2001477479934692,
+  "globalScaleFactor": 1,
+  "height": 2,
+  "hidden": false,
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.18997842073440552,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "moon",
+      "identifier": "mesh:756700-18418061-634b-4b17-9945-3f4053a2fe88",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "nodeName": "moon",
+      "numberOfFaces": 2004,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:756704-18418061-634b-4b17-9945-3f4053a2fe88",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": 1.5707967281341553,
+        "ry": -0,
+        "rz": 1.5707961320877075,
+        "sx": 100,
+        "sy": 100,
+        "sz": 9.49888801574707,
+        "x": 0.7349908947944641,
+        "y": 1.155617594718933,
+        "z": -1.9640166759490967
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:756702-18418061-634b-4b17-9945-3f4053a2fe88",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:756707-18418061-634b-4b17-9945-3f4053a2fe88",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:756696-18418061-634b-4b17-9945-3f4053a2fe88",
+              "surfaceGroupIdentifier": "756708-18418061-634b-4b17-9945-3f4053a2fe88"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

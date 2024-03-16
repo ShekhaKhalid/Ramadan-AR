@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "replaceMe",
+  "identifier": "texture:1047-d3d48b78-6a6d-41b5-bc11-10fe0972355c",
+  "alphaPremultiplicationMode": "none",
+  "assetDataHash": "d91cbfe8521b3d9feb6eced4b96b2b85",
+  "assetLocator": "textures/SparkTargetPoster.jpg",
+  "colorEncoding": "srgb",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:27716-a11cf47a-2f52-4d95-956b-6120a80f364b",
+    "textureExportConfig:27718-a11cf47a-2f52-4d95-956b-6120a80f364b",
+    "textureExportConfig:27720-a11cf47a-2f52-4d95-956b-6120a80f364b"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 723,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "d91cbfe8521b3d9feb6eced4b96b2b85",
+      "colorCount": 11346,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 4.3279955608932195,
+      "pixelsHigh": 1024,
+      "pixelsWide": 723
+    }
+  ]
+}
